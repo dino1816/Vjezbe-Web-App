@@ -1,2 +1,2 @@
-# Web-Aplikacije---Projekt
-Ovaj repozitorij sadrži projektni zadatak iz predmeta Web Aplikacije - ORS-IZV
+# Web-Aplikacije---Vježbe
+Ovaj repozitorij sadrži vježbe iz predmeta Web Aplikacije - ORS-IZV
